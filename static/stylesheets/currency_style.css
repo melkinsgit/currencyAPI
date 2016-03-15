@@ -1,0 +1,11 @@
+body {
+	background-color: palegreen;
+}
+
+div, span {
+	padding: 15px;
+}
+
+input {
+	margin: 5px;
+}
